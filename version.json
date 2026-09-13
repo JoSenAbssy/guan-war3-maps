@@ -1,9 +1,9 @@
 {
- "ver": 202609132113,
- "date": "2026-09-13 21:13",
+ "ver": 202609132118,
+ "date": "2026-09-13 21:18",
  "total": 10460,
  "offline": 0,
- "note": "地图名颜色代码清理（含大写|C）",
+ "note": "新增玩家统计心跳（待部署 ping.php）",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
@@ -12,6 +12,7 @@
  },
  "settings": {
   "feedback_group": "1104282100",
-  "site_url": "www.laoguan777.com"
+  "site_url": "www.laoguan777.com",
+  "stats_url": "https://www.laoguan777.com/ping.php"
  }
 }
