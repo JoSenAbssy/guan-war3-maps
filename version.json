@@ -1,9 +1,9 @@
 {
- "ver": 202609132105,
- "date": "2026-09-13 21:05",
+ "ver": 202609132109,
+ "date": "2026-09-13 21:09",
  "total": 10460,
  "offline": 0,
- "note": "新增：反馈群号动态配置下发",
+ "note": "动态配置：反馈群号 + 关网地址",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
@@ -11,6 +11,7 @@
   "added_names": []
  },
  "settings": {
-  "feedback_group": "1104282100"
+  "feedback_group": "1104282100",
+  "site_url": "www.laoguan777.com"
  }
 }
