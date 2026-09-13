@@ -1,13 +1,16 @@
 {
- "ver": 202609132057,
- "date": "2026-09-13 20:57",
+ "ver": 202609132105,
+ "date": "2026-09-13 21:05",
  "total": 10460,
  "offline": 0,
- "note": "首批发布：9730/10460 张已挂独立链接（95.6%），其余自动补全中",
+ "note": "新增：反馈群号动态配置下发",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
-  "updated_count": 9730,
+  "updated_count": 0,
   "added_names": []
+ },
+ "settings": {
+  "feedback_group": "1104282100"
  }
 }
