@@ -1,18 +1,18 @@
 {
- "ver": 202609132127,
- "date": "2026-09-13 21:27",
+ "ver": 202609132131,
+ "date": "2026-09-13 21:31",
  "total": 10460,
  "offline": 0,
- "note": "排序功能上线 + 人数字段清洗",
+ "note": "统计端点更名 warping.php",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
-  "updated_count": 3,
+  "updated_count": 166,
   "added_names": []
  },
  "settings": {
   "feedback_group": "1104282100",
   "site_url": "www.laoguan777.com",
-  "stats_url": "https://www.laoguan777.com/ping.php"
+  "stats_url": "https://www.laoguan777.com/warping.php"
  }
 }
