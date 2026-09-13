@@ -1,13 +1,13 @@
 {
- "ver": 202609132155,
- "date": "2026-09-13 21:55",
+ "ver": 202609132248,
+ "date": "2026-09-13 22:48",
  "total": 10460,
  "offline": 0,
- "note": "链接补全发布（自动恢复器）",
+ "note": "终版发布：10162 张地图已挂独立链接（97.1%）",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
-  "updated_count": 47,
+  "updated_count": 12,
   "added_names": []
  },
  "settings": {
