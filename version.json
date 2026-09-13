@@ -1,18 +1,21 @@
 {
- "ver": 202609132248,
- "date": "2026-09-13 22:48",
- "total": 10460,
- "offline": 0,
- "note": "终版发布：10162 张地图已挂独立链接（97.1%）",
+ "ver": 202609140011,
+ "date": "2026-09-14 00:11",
+ "total": 10442,
+ "offline": 295,
+ "note": "恢复地图简介/作者字段 + 分类分组侧栏",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
-  "updated_count": 12,
+  "updated_count": 0,
   "added_names": []
  },
  "settings": {
   "feedback_group": "1104282100",
   "site_url": "www.laoguan777.com",
-  "stats_url": "https://dl.laoguan.vip/warping.php"
+  "stats_url": "https://dl.laoguan.vip/warping.php",
+  "new_days": 14,
+  "hot_clicks": 10,
+  "fire_clicks": 50
  }
 }
