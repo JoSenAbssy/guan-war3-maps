@@ -1,13 +1,13 @@
 {
- "ver": 202609140116,
- "date": "2026-09-14 01:16",
- "total": 10442,
+ "ver": 202609140210,
+ "date": "2026-09-14 02:10",
+ "total": 10440,
  "offline": 295,
- "note": "链接补全发布（自动恢复器）",
+ "note": "清理2个云端损坏文件（守御者传奇中秋版/新无双列传1.87）",
  "changelog": {
   "added_count": 0,
-  "removed_count": 0,
-  "updated_count": 6,
+  "removed_count": 2,
+  "updated_count": 0,
   "added_names": []
  },
  "settings": {
