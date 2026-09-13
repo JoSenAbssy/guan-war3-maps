@@ -1,13 +1,13 @@
 {
- "ver": 202609132154,
- "date": "2026-09-13 21:54",
+ "ver": 202609132155,
+ "date": "2026-09-13 21:55",
  "total": 10460,
  "offline": 0,
- "note": "统计通道切换 dl.laoguan.vip",
+ "note": "链接补全发布（自动恢复器）",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
-  "updated_count": 204,
+  "updated_count": 47,
   "added_names": []
  },
  "settings": {
