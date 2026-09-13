@@ -1,14 +1,17 @@
 {
- "ver": 202609140210,
- "date": "2026-09-14 02:10",
- "total": 10440,
+ "ver": 202609140231,
+ "date": "2026-09-14 02:31",
+ "total": 10442,
  "offline": 295,
- "note": "清理2个云端损坏文件（守御者传奇中秋版/新无双列传1.87）",
+ "note": "新增游戏本体分类（魔兽争霸1.27纯净版 / Warcraft III完美纯净版）",
  "changelog": {
-  "added_count": 0,
-  "removed_count": 2,
+  "added_count": 2,
+  "removed_count": 0,
   "updated_count": 0,
-  "added_names": []
+  "added_names": [
+   "魔兽争霸1.27纯净版.rar",
+   "Warcraft III完美纯净版 [中文语音-宽屏支持-修复字体叠加-解锁60FPS-突破地图大小-高清过场动画-某易局域网特权].zip"
+  ]
  },
  "settings": {
   "feedback_group": "1104282100",
