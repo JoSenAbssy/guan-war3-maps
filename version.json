@@ -1,13 +1,13 @@
 {
- "ver": 202609140042,
- "date": "2026-09-14 00:42",
+ "ver": 202609140106,
+ "date": "2026-09-14 01:06",
  "total": 10442,
  "offline": 295,
- "note": "破解保护器：63%地图恢复作者/简介/人数全字段",
+ "note": "新增277张氪金图版本包（链接已建，元数据云端模式）",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
-  "updated_count": 0,
+  "updated_count": 271,
   "added_names": []
  },
  "settings": {
