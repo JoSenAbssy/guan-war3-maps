@@ -1,13 +1,13 @@
 {
- "ver": 202609131223,
- "date": "2026-09-13 12:23",
+ "ver": 202609132057,
+ "date": "2026-09-13 20:57",
  "total": 10460,
  "offline": 0,
- "note": "全量入库发布",
+ "note": "首批发布：9730/10460 张已挂独立链接（95.6%），其余自动补全中",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
-  "updated_count": 0,
+  "updated_count": 9730,
   "added_names": []
  }
 }
