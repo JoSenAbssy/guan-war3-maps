@@ -1,13 +1,13 @@
 {
- "ver": 202609132118,
- "date": "2026-09-13 21:18",
+ "ver": 202609132127,
+ "date": "2026-09-13 21:27",
  "total": 10460,
  "offline": 0,
- "note": "新增玩家统计心跳（待部署 ping.php）",
+ "note": "排序功能上线 + 人数字段清洗",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
-  "updated_count": 0,
+  "updated_count": 3,
   "added_names": []
  },
  "settings": {
