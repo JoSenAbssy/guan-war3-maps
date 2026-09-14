@@ -25,5 +25,14 @@
     "url": "https://dl.80dzgame.com/war3online/80duizhan_1.9.9.57_laoguan.exe"
    }
   ]
+ },
+ "app": {
+  "ver": 2,
+  "name": "v1.1",
+  "date": "2026-09-14 23:52",
+  "notes": "详情面板新增分享链接二维码，手机扫码直接转存更方便",
+  "file": "app/player_v2.exe",
+  "size": 14166805,
+  "sha256": "04b692fd08e17fd0e97c63a9468a36441a3fa05b06b011bed5691b55b60b13f2"
  }
 }
