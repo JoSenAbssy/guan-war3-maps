@@ -25,5 +25,14 @@
     "url": "https://dl.80dzgame.com/war3online/80duizhan_1.9.9.57_laoguan.exe"
    }
   ]
+ },
+ "app": {
+  "ver": 3,
+  "name": "v1.2",
+  "date": "2026-09-15 00:47",
+  "notes": "新增地图详情面板扫码转存二维码，修复版本号显示，配置更新更可靠",
+  "file": "app/player_v3.exe",
+  "size": 14164821,
+  "sha256": "8dbaac173b35c482696bd3a2253b0b3d2c2bf878116a071ad6858dea3a462298"
  }
 }
