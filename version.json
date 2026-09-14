@@ -1,9 +1,9 @@
 {
- "ver": 202609141629,
- "date": "2026-09-14 16:29",
+ "ver": 202609142351,
+ "date": "2026-09-14 23:51",
  "total": 10442,
  "offline": 295,
- "note": "TRIGSTR 兑底 + 对战平台外链分类",
+ "note": "10442 张在线 · 加密图 3191",
  "changelog": {
   "added_count": 0,
   "removed_count": 0,
@@ -17,6 +17,13 @@
   "new_days": 14,
   "hot_clicks": 10,
   "fire_clicks": 50,
-  "app_pan_url": ""
+  "app_pan_url": "",
+  "external_links": [
+   {
+    "name": "80对战平台 v1.9.9.57",
+    "desc": "魔兽官方对战平台社区版，氪金图运行环境（必装）",
+    "url": "https://dl.80dzgame.com/war3online/80duizhan_1.9.9.57_laoguan.exe"
+   }
+  ]
  }
 }
