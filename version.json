@@ -1,16 +1,16 @@
 {
- "ver": 202609160038,
- "date": "2026-09-16 00:38",
+ "ver": 20260916013449,
+ "data_ver": 20260916013449,
+ "maps_version": "2026-09-16 00:37:12",
+ "date": "2026-09-16 01:34",
  "total": 10443,
  "offline": 295,
- "note": "10443 张在线 · 加密图 3191",
+ "note": "修复索引同步异常 · 10443 张在线",
  "changelog": {
-  "added_count": 1,
+  "added_count": 0,
   "removed_count": 0,
   "updated_count": 0,
-  "added_names": [
-   "神界浩劫"
-  ]
+  "added_names": []
  },
  "settings": {
   "feedback_group": "1104282100",
@@ -27,5 +27,14 @@
     "url": "https://dl.80dzgame.com/war3online/80duizhan_1.9.9.57_laoguan.exe"
    }
   ]
+ },
+ "app": {
+  "ver": 4,
+  "name": "v1.3",
+  "date": "2026-09-16 01:33",
+  "notes": "修复索引更新后更新日志有新增但搜索不到，并增强多镜像同步校验",
+  "file": "app/player_v4.exe",
+  "size": 15200816,
+  "sha256": "41ba3b588445d3149ea164e28c1a5753229c4f2409e4f47c94a30f6599d39ceb"
  }
 }
