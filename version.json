@@ -1,16 +1,18 @@
 {
- "ver": 20260916021917,
- "data_ver": 20260916021917,
- "maps_version": "2026-09-16 00:37:12",
- "date": "2026-09-16 02:19",
+ "ver": 20260919174412,
+ "data_ver": 20260919174412,
+ "maps_version": "2026-09-19 17:36:48",
+ "date": "2026-09-19 17:44",
  "total": 10443,
  "offline": 295,
- "note": "v1.4 更新可靠性修复",
+ "note": "10443 张在线 · 加密图 3191",
  "changelog": {
-  "added_count": 0,
-  "removed_count": 0,
+  "added_count": 1,
+  "removed_count": 1,
   "updated_count": 0,
-  "added_names": []
+  "added_names": [
+   "少女梦地图商城工具(关闭杀毒+管理员打开)【260919】"
+  ]
  },
  "settings": {
   "feedback_group": "1104282100",
