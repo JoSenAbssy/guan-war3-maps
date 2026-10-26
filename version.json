@@ -1,18 +1,16 @@
 {
- "ver": 20261010230631,
- "data_ver": 20261010230631,
- "maps_version": "2026-10-10 22:14:23",
- "date": "2026-10-10 23:06",
- "total": 10468,
- "offline": 295,
- "note": "10468 张在线 · 加密图 3191",
+ "ver": 20261027012845,
+ "data_ver": 20261027012845,
+ "maps_version": "2026-10-27 01:28:06",
+ "date": "2026-10-27 01:28",
+ "total": 10467,
+ "offline": 296,
+ "note": "清理1份内容完全相同的重复地图；不同版本和修改版全部保留。",
  "changelog": {
-  "added_count": 1,
-  "removed_count": 0,
+  "added_count": 0,
+  "removed_count": 1,
   "updated_count": 0,
-  "added_names": [
-   "\"讨伐大魔王！\" 4.97"
-  ]
+  "added_names": []
  },
  "settings": {
   "feedback_group": "1104282100",
@@ -27,6 +25,93 @@
     "name": "80对战平台",
     "desc": "魔兽争霸怀旧 RPG 与自定义地图联机平台",
     "url": "https://dl.80dzgame.com/war3online/80duizhan_1.9.9.57_laoguan.exe"
+   }
+  ]
+ },
+ "index": {
+  "schema": 1,
+  "base_data_ver": 20261026235143,
+  "target_data_ver": 20261027012845,
+  "total": 10467,
+  "version": "2026-10-27 01:28:06",
+  "meta": {
+   "version": "2026-10-27 01:28:06",
+   "total": 10467,
+   "offline": 296,
+   "blocked": 1,
+   "data_ver": 20261027012845
+  },
+  "delta": {
+   "file": "index/852d4747c02d05c2f56814defc6f4cf364085b64e54eed12bc23ffbfd57232e7.json",
+   "sha256": "852d4747c02d05c2f56814defc6f4cf364085b64e54eed12bc23ffbfd57232e7",
+   "size": 287
+  },
+  "chunks": [
+   {
+    "file": "index/abd642d3d7f0bce3c13ffadfbf39c04adf7f8b9e2b44f70d0d50bbb90cbe9d33.json",
+    "sha256": "abd642d3d7f0bce3c13ffadfbf39c04adf7f8b9e2b44f70d0d50bbb90cbe9d33",
+    "size": 556981,
+    "count": 1000
+   },
+   {
+    "file": "index/ff34f828b00af1e2a0bf4cfc775959481a533e840f5c043dda25bb73ad42fbc7.json",
+    "sha256": "ff34f828b00af1e2a0bf4cfc775959481a533e840f5c043dda25bb73ad42fbc7",
+    "size": 497437,
+    "count": 1000
+   },
+   {
+    "file": "index/98931f9372b9ce4cbff1b7837c26f33217a0b7e51f546deb57601e7fc2d3c6d7.json",
+    "sha256": "98931f9372b9ce4cbff1b7837c26f33217a0b7e51f546deb57601e7fc2d3c6d7",
+    "size": 539651,
+    "count": 1000
+   },
+   {
+    "file": "index/026175ed0afef6be6082ebd56015503fc3ba84e1b50d88716f0aefd08858ad52.json",
+    "sha256": "026175ed0afef6be6082ebd56015503fc3ba84e1b50d88716f0aefd08858ad52",
+    "size": 531569,
+    "count": 1000
+   },
+   {
+    "file": "index/a2e0c1b80e77618b8e2f9cfd0110a2f6b184331be51303211f1e6be5e0cabaac.json",
+    "sha256": "a2e0c1b80e77618b8e2f9cfd0110a2f6b184331be51303211f1e6be5e0cabaac",
+    "size": 561754,
+    "count": 1000
+   },
+   {
+    "file": "index/f0d7d96ddc8b05b6b50e4417c2416c42f59fbd7230672fa2b4203cc2fa880c7f.json",
+    "sha256": "f0d7d96ddc8b05b6b50e4417c2416c42f59fbd7230672fa2b4203cc2fa880c7f",
+    "size": 512882,
+    "count": 1000
+   },
+   {
+    "file": "index/604a474c11e2313bd5ae505ac21fe0ebe5e60b289230f1012854346abc38cb76.json",
+    "sha256": "604a474c11e2313bd5ae505ac21fe0ebe5e60b289230f1012854346abc38cb76",
+    "size": 489922,
+    "count": 1000
+   },
+   {
+    "file": "index/5daab17c8679ce462adb95e8cbec12a2758e988009b724be32dae11a563a57a1.json",
+    "sha256": "5daab17c8679ce462adb95e8cbec12a2758e988009b724be32dae11a563a57a1",
+    "size": 551973,
+    "count": 1000
+   },
+   {
+    "file": "index/08bb8ca030c978aa246aa2117a7d2e9900c7dfd741c24526e33aef79944191b7.json",
+    "sha256": "08bb8ca030c978aa246aa2117a7d2e9900c7dfd741c24526e33aef79944191b7",
+    "size": 589703,
+    "count": 1000
+   },
+   {
+    "file": "index/53ae732e27e13caf25b6804d09f86732bdae8999642042215d9f85617f182bbc.json",
+    "sha256": "53ae732e27e13caf25b6804d09f86732bdae8999642042215d9f85617f182bbc",
+    "size": 531078,
+    "count": 1000
+   },
+   {
+    "file": "index/f5b8aab3695ccc46c6d7f9d751b161ee3b5dda47154ae10e28f57c2b4b5822eb.json",
+    "sha256": "f5b8aab3695ccc46c6d7f9d751b161ee3b5dda47154ae10e28f57c2b4b5822eb",
+    "size": 278416,
+    "count": 467
    }
   ]
  },
